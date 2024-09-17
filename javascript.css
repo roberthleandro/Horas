@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(30, 114, 193, 0.54);
+    color: aliceblue;
+    text-align: center;
+    padding: 1px;
+    font-family: 'Courier New', Courier, monospace;
+}
+section{
+    color: black;
+    background: rgba(255, 255, 255, 0.644);
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.315);
+    padding: 25px 0px;
+
+}
+
+#txt{
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 45px;
+}
